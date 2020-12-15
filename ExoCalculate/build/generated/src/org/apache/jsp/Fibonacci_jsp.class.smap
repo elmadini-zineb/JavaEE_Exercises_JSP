@@ -1,0 +1,19 @@
+SMAP
+Fibonacci_jsp.java
+JSP
+*S JSP
+*F
++ 0 Fibonacci.jsp
+Fibonacci.jsp
+*L
+5,11:45
+15:10
+15,9:56
+23,5:65
+27:70
+28:71,5
+29:76,3
+30:79
+31:80,3
+32,4:83
+*E
