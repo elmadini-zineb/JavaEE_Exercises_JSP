@@ -10,9 +10,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>HTML Page</title>
     </head>
     <body>
+
+    	<HTML>
 <%!	String[]articlesEnInventaire={"qcm123","ads234","qwerty456","azerty567","cap789","down345","top765","jungle432","fire8 ","hi234"};	   	   	   	   	   	   	   	   	   	   	   	   	   String	   articlesCherches	   =	   "down345";
 		boolean	   trouve = false;
 		int trouveIndex  = -1; %>
